@@ -190,7 +190,7 @@ console.log(john.indexOf(23));
 var isDesigner = john.indexOf('designer') === -1 ? 'John is not a designer' : 'John is a designer';
 console.log(isDesigner);
 */
-var bill = [124, 48, 268];
+/*var bill = [124, 48, 268];
 var totalPaid = new Array();
 function calculateTotalPaid (bill) {
     if (bill < 50) {
@@ -207,3 +207,4 @@ calculateTotalPaid(bill[0])
 calculateTotalPaid(bill[1])
 calculateTotalPaid(bill[2])
 console.log(totalPaid);
+*/
