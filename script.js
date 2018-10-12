@@ -1,4 +1,10 @@
-/* 
+var john = {
+    firstName: 'daniel',
+    lastName: 'kusuma',
+    class: 'compsci'
+};
+console.log(john.firstName);
+/*
 var MarkWeight = prompt("What is Mark's weight?");
 var MarkHeight = prompt("What is Mark's Height?");
 var JohnWeight = prompt("What is John's weight?");
@@ -209,4 +215,3 @@ calculateTotalPaid(bill[1])
 calculateTotalPaid(bill[2])
 console.log(totalPaid);
 */
-// Object & Properties
